@@ -1,0 +1,19 @@
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojResolveAssemblyReference.cache
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.TeladeEscolha.resources
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.Cache
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+C:\Users\Bruno Silva\Documents\Visual Studio 2012\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.jogovelha.resources
+C:\Users\Public\Documents\Visual Studio 2012\Projects\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Users\Public\Documents\Visual Studio 2012\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Users\Public\Documents\Visual Studio 2012\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+C:\Users\Public\Documents\Visual Studio 2012\Projects\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\Public\Documents\Visual Studio 2012\Projects\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\Public\Documents\Visual Studio 2012\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Visual Studio 2012\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.jogovelha.resources
+C:\Users\Public\Documents\Visual Studio 2012\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+C:\Users\Public\Documents\Visual Studio 2012\Projects\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.Cache
